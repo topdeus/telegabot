@@ -1,9 +1,0 @@
-Django==5.0.3
-pyTelegramBotAPI==4.15.4
-python-dotenv==1.0.1
-dj-database-url==2.2.0
-gunicorn==23.0.0
-psycopg[binary]==3.2.1
-whitenoise[brotli]==6.7.0
-django-storages==1.14.4
-boto3==1.35.24
